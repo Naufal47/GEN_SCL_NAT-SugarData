@@ -167,6 +167,12 @@
         ["the warranty overall","WARRANTY#GENERAL"],
         ["the warranty quality","WARRANTY#QUALITY"]
       ]
+      "sugar_parent_mapping": [
+        ["supply","SUPPLY"  ],
+        ["demand","DEMAND"  ],
+        ["interaksi","INTERAKSI"  ]
+    ]
+    
 }
 
 
